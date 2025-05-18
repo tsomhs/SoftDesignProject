@@ -1,5 +1,7 @@
 # SoftDesignProject
 
+![](ClassDiagram1.jpg)
+
 ## Assumptions
 
 1. **The `User` class is an abstract/general role**, acting as the superclass for `Supervisor`, `Developer`, `AnalystDesigner`, and `Stakeholder`. These roles inherit common functionality such as login, messaging, and report creation.
