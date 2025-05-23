@@ -1,6 +1,6 @@
 # SoftDesignProject
 
-![](UseCaseDiagram2.jpg)
+![](UseCaseDiagram.jpg)
  
 ## Assumptions
 
