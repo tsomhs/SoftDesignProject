@@ -1,7 +1,7 @@
 # SoftDesignProject
 
 ![](UseCaseDiagram.jpg)
- 
+
 ## Assumptions
 
 1. **Users are categorized into distinct roles**: Supervisor, Developer, AnalystDesigner, and Stakeholder. All of them inherit basic functionality such as authentication (via 2FA), messaging, and report creation from a general abstract actor named `User`.
